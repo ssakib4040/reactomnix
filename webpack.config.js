@@ -2,7 +2,7 @@ const path = require("path");
 
 module.exports = {
   mode: "production",
-  entry: "./src/index.ts", // Update the entry point path
+  entry: "./src/index.ts",
   output: {
     path: path.resolve(__dirname, "dist"),
     filename: "reactomnix.js",

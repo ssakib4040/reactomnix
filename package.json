@@ -6,6 +6,7 @@
   "author": "Sadman Sakib <ssakib4040@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "dev" : "webpack --watch",
     "build": "webpack"
   },
   "dependencies": {
